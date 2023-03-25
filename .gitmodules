@@ -1,0 +1,3 @@
+[submodule "vendor/BinarySilvelizerX"]
+	path = vendor/BinarySilvelizerX
+	url = https://github.com/SilveIT/binarysilvelizerx
